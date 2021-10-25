@@ -24,9 +24,6 @@
         </header>
 
         <div class="cds-container container">
-            <?php echo "Ciao"; ?>
-            <?= "Ciao"; ?>
-
 
             <?php foreach($database as $album) { ?>
             <div class="cd">
